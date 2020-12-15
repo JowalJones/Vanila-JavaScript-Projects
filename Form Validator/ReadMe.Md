@@ -1,1 +1,1 @@
-Form Validator Vanilla Js by Traversy Tutorial
+Simple Form Validator
