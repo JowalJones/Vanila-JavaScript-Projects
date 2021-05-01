@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
 
 :root {
-    --success-color: #88a193 ;
+    --success-color: #39FF14 ;
     --error-color: #e74c3c;
 }
 * {
@@ -50,7 +50,7 @@ h2{
 }
 
 .form-control input {
-    border: 2px solid solid #f0f0f0;
+    border: 2px solid  #f0f0f0;
     border-radius: 4px;
     display: block;
     width: 100%;
@@ -65,6 +65,7 @@ h2{
 
 .form-control.success input {
     border-color: var(--success-color);
+   
 }
 
 .form-control.error input {
